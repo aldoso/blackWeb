@@ -1,0 +1,75 @@
+/* freecodecamp black theme css */
+
+.row {
+    background-color: black;
+}
+
+a.btn.btn-block.btn-primary.challenge-step-btn-action.btn-lg {
+    color: #12fc6c;
+}
+
+a.btn.btn-primary.btn-big.btn-block {
+    background-color: #0b5913;
+    color: #56f56b;
+}
+
+body {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+
+button.btn-big.btn.btn-primary.btn-block {
+    color: #0fd14c;
+}
+
+button.btn.btn-primary.btn-primary-ghost.btn-lg {
+    color: #0fd14c;
+}
+
+button.btn.btn-primary.col-sm-4.col-xs-12.challenge-step-btn-next.btn-lg {
+    color: #23cf65;
+}
+
+div.btn.btn-primary.btn-primary-ghost.btn-big {
+    background-color: #0b5913;
+    color: #56f56b;
+}
+
+div.challenge-step-counter.large-p.col-sm-4.col-xs-12.text-center {
+    color: #bfbfbf;
+}
+
+div.innerMarginFix {
+    background-color: #242224;
+    color: #c4bec4;
+}
+
+div.row {
+    background-color: #292626;
+}
+
+h4.text-center.challenge-instructions-title {
+    color: #cfcdcf;
+}
+
+img.iphone-position.iframe-scroll {
+    z-index: 0;
+}
+
+li.step-text.wrappable {
+    color: #d4d4d4;
+    font-size: 18px;
+}
+
+p.challenge-step-description {
+    color: #c4c2c4;
+}
+
+html {
+    background-color: #292626;
+}
+
+.table-striped>tbody>tr:nth-child(odd) {
+    background-color: #322c2c;
+}
