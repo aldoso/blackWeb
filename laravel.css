@@ -1,0 +1,148 @@
+#carbonads {
+    display: none;
+}
+
+body {
+    background-color: #333;
+    color: lightgray;
+}
+
+pre {
+    background-color: #444;
+}
+
+.language-php {
+    color: lightgray;
+}
+
+.docs article code[class*=language-], .docs article pre[class*=language-] {
+    font-size: 15px;
+    line-height: 2;
+    vertical-align: middle;
+}
+
+code[class*=language-], pre[class*=language-] {
+    text-shadow: none;
+    text-align: left;
+    line-height: 1.7;
+    font-size: 11.5px;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+}
+
+.token.atrule, .token.attr-value, .token.keyword {
+    color: #76d6ff;
+}
+
+.token.builtin, .token.char, .token.inserted, .token.selector, .token.string {
+    color: #63ba67;
+}
+
+:not(pre)>code[class*=language-] {
+    background: #4c4c4c;
+    color: #f4645f;
+    padding: 1px 5px;
+    border-radius: 3px;
+}
+
+.language-css .token.string, .style .token.string, .token.entity, .token.operator, .token.url {
+    color: #fe9090;
+}
+
+.token.important, .token.regex, .token.variable {
+    color: #78bff3;
+}
+
+.docs article h2 a, .docs article h2 a:hover {
+    color: #a65451;
+    text-decoration: none;
+}
+
+.token.function {
+    color: #d6a54b;
+}
+
+.docs blockquote.has-icon.tip {
+    background: #38576f;
+}
+
+nav.main ul.main-nav>li>a {
+    color: #aeaeae;
+    display: block;
+    font-size: 15px;
+    padding: 28px 10px;
+    border-bottom: 3px solid transparent;
+    transition: border .2s ease-out,color .2s ease-out;
+}
+
+footer.main {
+    background: transparent;
+    padding: 35px 20px;
+    text-align: center;
+}
+
+input {
+    background-color: #333;
+}
+
+nav.main {
+    display: flex;
+    padding: 0;
+    height: 80px;
+    width: 100%;
+    border-bottom: 1px solid #474747;
+}
+
+nav.main a.brand {
+    border-right: 1px solid #474747;
+    color: #e74430;
+    font-size: 18px;
+    float: left;
+    line-height: 80px;
+    padding: 0 30px;
+}
+
+nav.main ul.main-nav {
+    border-left: 1px solid #474747;
+    list-style: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0;
+    padding: 0 20px;
+    float: right;
+}
+
+.sidebar {
+    border-right: 1px solid #474747;
+    width: 250px;
+    padding: 35px;
+}
+
+nav.main .switcher {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0 15px;
+    border-left: 1px solid #474747;
+}
+
+.docs article h1+ul {
+    margin: 0;
+    padding: 0 0 50px;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    border-bottom: 1px solid #965a55;
+    -webkit-font-smoothing: antialiased;
+}
+
+small a {
+    display: none;
+}
+
