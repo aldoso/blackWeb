@@ -1,0 +1,376 @@
+#content {
+    background-color: black;
+}
+
+#masthead {
+    background-color: black;
+    border: 0;
+}
+
+#inner-search {
+    margin-top: none;
+    margin-bottom: none;
+}
+
+#inner-search-icon {
+    background-color: #26394d;
+}
+
+span.trail-browse {
+    color: #d4d4d4;
+}
+
+span.trail-end {
+    color: #d4d4d4;
+}
+
+main.site-main.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook h1 {
+    color: #d4d4d4;
+}
+
+main.site-main.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook p {
+    color: #d4d4d4;
+}
+
+main.site-main.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook ul li {
+    color: #d4d4d4;
+}
+
+h2.toc-heading {
+    color: #e6e6e6;
+}
+
+main.site-main.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook ol li {
+    color: #e6e6e6;
+}
+
+h3.toc-heading {
+    color: #e6e6e6;
+}
+
+aside.widget.widget_nav_menu {
+    background-color: #1f1f1f;
+    border-color: #636363;
+}
+
+h2.widget-title {
+    background-color: #383838;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-5797 a {
+    color: #b8b8b8;
+}
+
+.devhub-wrap #sidebar ul li:before {
+    background-color: #404040;
+}
+
+main.site-main.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook p a {
+    color: #b55c5c;
+}
+
+a.anchor span {
+    color: #b55c5c;
+}
+
+ol li a {
+    color: #b55c5c;
+}
+
+div.nav-links a {
+    color: #b55c5c;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.current-menu-item.menu-item-11325 a {
+    color: #b55c5c;
+}
+
+span.trail-begin a {
+    color: #b55c5c;
+}
+
+span.trail-inner a {
+    color: #b55c5c;
+}
+
+span.sep {
+    color: #8c8c8c;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-5828 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-17411 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.current-theme-handbook-ancestor.current-menu-ancestor.current-menu-parent.current-theme-handbook-parent.menu-item-has-children.menu-item-5827 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-11419 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-25095 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-5826 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-5825 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-25055 a {
+    color: #b5b5b5;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children.menu-item-11272 a {
+    color: #b5b5b5;
+}
+
+#wporg-footer {
+    background-color: #1a1a1a;
+}
+
+div.theme-handbook-template-default.single.single-theme-handbook.admin-bar.no-customize-support.hfeed.site.devhub-wrap.single-handbook {
+    background-color: #212121;
+}
+
+div.widget-area.sidebar.section {
+    border-style: none;
+}
+
+div.table-of-contents h2 {
+    background-color: #383838;
+}
+
+ul.items li a {
+    color: #944e4e;
+}
+
+ul.items li a:hover {
+    color: orange;
+}
+
+div.source-code-container {
+    background-color: #525252;
+    font-size: 16px;
+}
+
+code.php.plain {
+    color: #e6e6e6;
+}
+
+code.xml.string {
+    color: #7dc2ff;
+}
+
+code.xml.keyword {
+    color: #7dc2ff;
+}
+
+code.xml.color1 {
+    color: #cf8484;
+}
+
+code.xml.comments {
+    color: #00a84e;
+}
+
+code.xml.plain {
+    color: #d1d1d1;
+}
+
+.line.alt1:nth-child(even) {
+    background-color: black;
+}
+
+.line.alt2:nth-child(odd) {
+    background-color: #151414;
+}
+
+code.xml.string a {
+    color: #d9ff00;
+}
+
+code.php.keyword {
+    color: #7fffbb;
+}
+
+code.php.string {
+    color: #d387ff;
+}
+
+code.php.comments {
+    color: #828282;
+}
+
+div.callout.callout-tip {
+    background-color: #003b1a;
+}
+
+div.callout.callout-tip p code {
+    color: #00ff26;
+}
+
+div.callout.callout-info {
+    background-color: #182540;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.current-theme-handbook-ancestor.current-theme-handbook-parent.menu-item-has-children a {
+    color: #b8b8b8;
+}
+
+div.syntaxhighlighter.php {
+    background-color: #000;
+    border: 1px solid green;
+}
+
+div.syntaxhighlighter.xml {
+    background-color: #000;
+    border: 1px solid green;
+}
+
+code.php.variable {
+    color: #f0d108;
+}
+
+.table-of-contents {
+    border: 1px solid darkgray;
+}
+
+ul li a {
+    color: #b55c5c;
+}
+
+h4.toc-heading strong {
+    color: #ffffff;
+}
+
+ul li code {
+    color: #8adaff;
+}
+
+li.button.download-button a {
+    color: #ffffff;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children a {
+    color: #a1a1a1;
+}
+
+ol li code {
+    color: #8abfff;
+}
+
+main.site-main.post-11303.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook p code {
+    color: #cf9e61;
+}
+
+tr td a {
+    color: #00d9ff;
+}
+
+tbody tr td {
+    color: #b3b3b3;
+}
+
+tbody tr th {
+    background-color: #292929;
+}
+
+tr th b {
+    color: #d6d6d6;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children a:hover {
+    color: white;
+}
+
+li.menu-item.menu-item-type-post_type.menu-item-object-theme-handbook.menu-item-has-children a:active {
+    color: yellow;
+}
+
+main.site-main.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook p code {
+    color: #87d9ff;
+}
+
+.devhub-wrap #sidebar {
+    border: 1px solid #3e3e3e;
+    box-shadow: 0px 0px 0px #d0d0d0;
+    background-color: #f0f0f0;
+}
+
+div.site-content {
+    background-color: #262121;
+}
+
+div.table-of-contents {
+    background-color: black;
+    border: 2px solid #1d1d1d;
+}
+
+.devhub-wrap .site-branding .site-title {
+    text-shadow: 0 0px 0 black;
+}
+
+blockquote {
+    background-color: black;
+    border: 1px solid green;
+    color: #c5b28e;
+    padding: 10px;
+}
+
+h4.toc-heading {
+    color: #e0e0e0;
+}
+
+main.site-main.post-11307.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook h5 {
+    color: #bdbdbd;
+}
+
+main.site-main.post-11377.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook dl dt {
+    color: #d9d9d9;
+}
+
+main.site-main.post-11377.theme-handbook.type-theme-handbook.status-publish.hentry.type-handbook dl dd {
+    color: #d1d1d1;
+}
+
+code.plain.plain {
+    color: #ffffff;
+}
+
+main.site-main.plugin-handbook.type-plugin-handbook.status-publish.hentry.type-handbook h1 {
+    color: #b3b3b3;
+}
+
+main.site-main.plugin-handbook.type-plugin-handbook.status-publish.hentry.type-handbook p em {
+    color: #e0e0e0;
+}
+
+main.site-main.plugin-handbook.type-plugin-handbook.status-publish.hentry.type-handbook p {
+    color: #dbdbdb;
+}
+
+main.site-main.plugin-handbook.type-plugin-handbook.status-publish.hentry.type-handbook ol li {
+    color: #dbdbdb;
+}
+
+div.callout.callout-info p code {
+    color: #6be1ff;
+}
+
+main.site-main.post-10957.plugin-handbook.type-plugin-handbook.status-publish.hentry.type-handbook p a {
+    color: #d15858;
+}
+
+div.callout.callout-warning {
+    background-color: #3d0703;
+}
+
